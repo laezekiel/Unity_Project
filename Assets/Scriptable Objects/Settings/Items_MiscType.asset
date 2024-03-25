@@ -10,9 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ba7e37e4c405abb458eac40f6a40babf, type: 3}
-  m_Name: Items
+  m_Name: Items_MiscType
   m_EditorClassIdentifier: 
   _Enum_Values_I: 0000000001000000
   _Enum_Values_S:
   - A
   - B
+  _Enum_Values_T: []
+  _ToType: 0
